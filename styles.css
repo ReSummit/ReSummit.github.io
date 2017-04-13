@@ -6,9 +6,14 @@ body {
     font-family: "Arial";
 }
 td {
-    width: 500px;
+    width: 200px;
     height: 50px;
-    background-color: rgb(93,81,255);
+}
+.likes {
+        background-color: rgb(56, 255, 56);
+}
+.dislikes {
+    background-color: rgb(255, 55, 55);
 }
 .title {
     text-shadow: 0px 3px rgb(255,55,0);
