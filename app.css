@@ -1,0 +1,41 @@
+header, footer {
+	background-color: #009a4b;
+	color: #ddd;
+	padding: 1px;
+	text-align: center;
+}
+
+aside {
+	padding-top: 10px;
+	font-weight: bold;
+}
+.title {
+	color: darkred;
+}
+
+#orderedlist {
+	color: darkcyan;
+}
+
+#orderedlist1 {
+	font-weight: 400
+}
+
+nav {
+	background-color: #222;
+}
+
+section, article {
+	padding: 10px;
+	background-color: #eee;
+}
+
+img {
+	text-align: right;
+	height: 65%;
+	width: 65%;
+}
+
+.message, #numberMessage, .Input, .button, .Image {
+	text-align: center
+}
