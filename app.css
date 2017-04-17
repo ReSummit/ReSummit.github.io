@@ -39,3 +39,7 @@ img {
 .message, #numberMessage, .Input, .button, .Image {
 	text-align: center
 }
+.top {
+	text-align: center;
+	color: blue;
+}
