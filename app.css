@@ -33,7 +33,7 @@ section, article {
 img {
 	text-align: right;
 	height: 50%;
-	width: 50%;
+	width:  50%;
 }
 
 .message, #numberMessage, .Input, .button, .Image {
